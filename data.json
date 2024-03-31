@@ -1,0 +1,48 @@
+{  
+    "question" : [  
+        "Q1. Which language is directly executable by a computer's CPU?",  
+        "Q2. Which has been standardized in the IEEE 802.3 specification?",  
+        "Q3. ___ is a storage device with effectively independent access time of the data location?",  
+        "Q4. Which of the following Key is not found in normal computers/laptops?",  
+        "Q5. What is used in most programs as their part guiding the user through certain steps?"  
+    ],  
+    "ans" : [  
+        1,  
+        2,  
+        4,  
+        3,  
+        2  
+    ],  
+    "choices" : [  
+        [  
+        "Machine Language",  
+        "High Language",  
+        "Assembly Language",  
+        "Second generation Language"  
+        ],  
+        [  
+        "Bluetooth",  
+        "Ethernet",  
+        "WiMAX",  
+        "All of the above"  
+        ],  
+        [  
+        "Primary Storage Device",  
+        "Secondary Storage Device",  
+        "Gateway Device",  
+        "Direct Access Storage Device"  
+        ],  
+        [  
+        "Del key",  
+        "Alt key",  
+        "Turn key",  
+        "Shift key"  
+        ],  
+        [  
+        "Software",  
+        "Wizard",  
+        "Wiki",  
+        "None of the above"  
+        ]  
+    ]  
+}  

@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1.Which of the following is NOT an example of Intellectual Property rights?",
+    "Q2.The last DML statement processed during a commit transaction is",
+    "Q3. The following topology has highest reliability",
+    "Q4. First supercomputer developed in India is"
+  ],
+  "ans": [
+    3,
+    1,
+    2,
+    2
+  ],
+  "choices": [
+
+    ["PATENT",
+      "TRADEMARK",
+      "PASSWORD",
+      "INDUSTRIAL DESIGN"
+    ],
+    [ "INSERT",
+      "UPDATE",
+      "DELETE",
+      "POST"
+    ],
+    ["RING",
+     "MESH",
+     "BUS",
+     "STAR"
+    ],
+    ["SHIVA",
+      "PARAM",
+      "ARYA BHATT",
+      "BUDDHA"
+    ]
+  ]
+}

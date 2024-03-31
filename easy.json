@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Which browser is provided with the latest versions of Windows 10?",
+    "Q2. Sillico Sapines is also called as what?",
+    "Q3. What is a bug?",
+    "Q4. What does FTP stand for?"
+  ],
+  "ans" : [
+    4,
+    3,
+    1,
+    1
+  ],
+  "choices" : [
+    [
+     "Yandex Browser",
+      "Amigo",
+      "Safari",
+      "Edge"
+    ],
+    [ "USB",
+      "Hardware",
+      "Computer",
+      "Operating system"
+    ],
+    ["A bug is an error in a software program",
+     "A buy is a virus in the software program",
+     "A bug is malware in a software program",
+     "All of the above"
+    ],
+    ["File Transfer Protocol",
+      "Floating task Protocol",
+      "Frequency Transistor Protocol",
+      " Frontside Transistor Protocol"
+    ]
+  ]
+}
